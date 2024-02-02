@@ -18,14 +18,15 @@ Example 1:
 ./pipe ls cat wc
 7   7   63
 ```
-![Alt text](image.png)
+<img width="283" alt="image" src="https://github.com/brandontranle/notzsh/assets/111268644/dc364485-8697-4c96-9295-0f1e30e8cb52">
 
 Example 2:
 ```
 ./pipe ps cat aux wc
 6 24 180
 ```
-![Alt text](image-1.png)
+<img width="266" alt="image-1" src="https://github.com/brandontranle/notzsh/assets/111268644/69d04fa2-ddff-415c-9977-a34738971766">
+
 
 ## Cleaning up
 This program can be cleaned using:
